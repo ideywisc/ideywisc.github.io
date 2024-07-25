@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Brief background
+##### Brief background
 ======
 I am a 3rd year PhD student in the Learning Sciences area at UW Madison. Though my academic background is in molecular biology, I discovered my passion for improving education (or at least attempting to!) after working for educational start-ups in India for 7+ years. 
 
