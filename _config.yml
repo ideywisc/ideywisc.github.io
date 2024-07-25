@@ -21,7 +21,7 @@ repository               : "indrani-dey/indrani-dey.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "dp.png"
   name             : "Indrani Dey"
   pronouns         : "she/her"  
   bio              : #"Brief info"
