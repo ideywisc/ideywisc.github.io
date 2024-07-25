@@ -10,7 +10,6 @@ redirect_from:
 ##### Brief background
 I am a 3rd year PhD student in the Learning Sciences area at UW Madison. Though my academic background is in molecular biology, I discovered my passion for improving education (or at least attempting to!) after working for educational start-ups in India for 7+ years. 
 <br>
-<br>
 
 ##### Current work
 I am currently working as a Project Assistant in the [Interactive Learning & Design Lab](https://ildl.wceruw.org) at the Wisconsin Center for Education Research. My research aims to understand how to design and use technology to help students learn science.
@@ -20,7 +19,6 @@ I am also part of the [NSF National AI Institute for Student-AI Teaming (iSAT)](
 My projects include identifying and examining students' multimodal indicators of collaboration in middle school STEM classrooms, classroom orchestration using teacher and student dashboards, and examining teacher and peer scaffolding moments in collaborative STEM classrooms.
 
 I use mixed methods in my research, including qualitative analysis of video, discourse, and text, as well as quantitative methods such as Regression Analysis, Factor Analysis, Hierarchical Modeling, Structural Equation Modeling, and Social Network Analysis.
-<br>
 
 ###### Research Interests
 Students' and teachers' perceptions and utilization of AI-powered technologies and understanding human-AI partnerships, grounded in a sociocultural perspective. I'm also interested in unpacking the tensions between research and classroom practices.
