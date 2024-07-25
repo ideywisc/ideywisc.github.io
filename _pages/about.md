@@ -21,8 +21,7 @@ My projects include identifying and examining students' multimodal indicators of
 
 I use mixed methods in my research, including qualitative analysis of video, discourse, and text, as well as quantitative methods such as Regression Analysis, Factor Analysis, Hierarchical Modeling, Structural Equation Modeling, and Social Network Analysis.
 <br>
-<br>
 
-##### Research Interests
+###### Research Interests
 Students' and teachers' perceptions and utilization of AI-powered technologies and understanding human-AI partnerships, grounded in a sociocultural perspective. I'm also interested in unpacking the tensions between research and classroom practices.
 
